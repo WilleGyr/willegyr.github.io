@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Örebro University, 2029 (Expected)
+* B.S. in Computer Science, Örebro University, 2027 (Expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022 – Present: Logistics Associate
+  * IKEA Örebro
+  * Tasks include managing incoming deliveries, organizing stock, and supporting warehouse operations
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Warehouse Assistant  
+  * Centrum för hjälpmedel, Örebro  
+  * Assisted with logistics and distribution of medical equipment and aids
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019: Intern  
+  * Klossbutiken, Örebro  
+  * Worked with product organization, customer interaction, and LEGO inventory management
+ 
+* 2018–2019: Youth Leader  
+  * Church of Sweden (Svenska kyrkan)  
+  * Assisted in confirmation camps, events and trips across Europe; responsible for organizing activities and supporting participants
+
+ Projects & External Courses
+======
+* NASA-Sponsored Research Project  
+  * Central Arizona College  
+  * Participated in a U.S. college course focused on atmospheric science and measurement techniques  
+  * Contributed to the design and analysis of a weather balloon-based data collection project
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages
+  * Python
+  * C/C++
+  * HTML
+  * MarkDown
+  * CSS
+  * Matlab
+  * SQL
+  * Latex
+* QT (Python & C++)
+* CMake
+* Git

@@ -1,6 +1,6 @@
 ---
 title: "Custom Spotify Wrapped"
-excerpt: "Flexible, Personal, and Fully Under Your Control<br/><img src='/images/Interface_Showcase.gif'>"
+excerpt: "Flexible, Personal, and Fully Under Your Control<br/><img src='/images/Interface_Showcase.gif' width=500>"
 collection: portfolio
 ---
 

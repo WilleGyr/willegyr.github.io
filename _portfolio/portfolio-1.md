@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Custom Spotify Wrapped"
+excerpt: "Flexible, Personal, and Fully Under Your Control<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+An open-source Python app that generates a personalized version of Spotify Wrapped using real listening data, giving you complete control over your music stats. Unlike Spotify's official Wrapped, this tool lets you explore everything — top artists, songs, genres, trends over time, and more — all presented through interactive charts in a sleek GUI.
+
+Built with a combination of Spotify’s API, Google Sheets, and Python-based data visualization, this project is tailored for users who want transparency and customization in how their listening habits are tracked and displayed.

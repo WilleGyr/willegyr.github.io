@@ -27,7 +27,7 @@ It basically tracks and analyzes your Spotify listening data and creates a custo
 
 *The **[latest version](https://github.com/WilleGyr/Spotify_Wrapped/releases/latest)** requires a **[Spotify Developer account](https://developer.spotify.com/)**. If you don't have access to one, please download **[version 1.0.0](https://github.com/WilleGyr/Spotify_Wrapped/releases/tag/v1.0.0)**. View the **[CHANGELOG](CHANGELOG)** for more information.
 
-![Alt text](Images/Interface_Showcase.gif)
+![Alt text](/images/Interface_Showcase.gif)
 
 ## Table of Contents
 - [Getting Started](#getting-started)

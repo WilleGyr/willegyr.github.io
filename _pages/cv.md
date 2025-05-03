@@ -20,6 +20,11 @@ Work experience
   * IKEA Örebro
   * Tasks include managing incoming deliveries, organizing stock, and supporting warehouse operations
 
+* 2020–2021: Exchange Student (U.S.)  
+  * Casa Grande Union High School & Central Arizona College  
+  * Spent a year studying in Arizona as part of an exchange program  
+  * Participated in a NASA-sponsored course on atmospheric science and contributed to a weather balloon-based research project
+
 * Summer 2020: Warehouse Assistant  
   * Centrum för hjälpmedel, Örebro  
   * Assisted with logistics and distribution of medical equipment and aids

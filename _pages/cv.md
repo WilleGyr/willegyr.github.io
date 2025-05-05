@@ -55,6 +55,7 @@ Skills
   * Matlab
   * SQL
   * Latex
+  * Swift
 * Qt (Python & C++)
 * CMake
 * Git
